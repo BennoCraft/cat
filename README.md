@@ -1,3 +1,1 @@
-# cat
-
-[cat](http://cat.bennocraft.net/)
+# [cat](http://cat.bennocraft.net/)
